@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15490" started-at="2023-02-15T09:54:28Z" finished-at="2023-02-15T09:54:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15490" started-at="2023-02-15T09:54:28Z" finished-at="2023-02-15T09:54:43Z">
+      <class name="com.demoBlaze.testcases.HomePageTest">
+        <test-method status="PASS" signature="Readconfig()[pri:0, instance:com.demoBlaze.testcases.HomePageTest@3e9b1010]" name="Readconfig" is-config="true" duration-ms="13" started-at="2023-02-15T09:54:28Z" finished-at="2023-02-15T09:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Readconfig -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoBlaze.testcases.HomePageTest@3e9b1010]" name="setUp" is-config="true" duration-ms="7294" started-at="2023-02-15T09:54:28Z" finished-at="2023-02-15T09:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectMacBook()[pri:0, instance:com.demoBlaze.testcases.HomePageTest@3e9b1010]" name="selectMacBook" duration-ms="7122" started-at="2023-02-15T09:54:35Z" finished-at="2023-02-15T09:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMacBook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoBlaze.testcases.HomePageTest@3e9b1010]" name="tearDown" is-config="true" duration-ms="1018" started-at="2023-02-15T09:54:42Z" finished-at="2023-02-15T09:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoBlaze.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
